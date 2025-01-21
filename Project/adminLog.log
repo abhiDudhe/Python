@@ -1,0 +1,172 @@
+2025-01-21 23:10:57,624 : INFO --> Inside the class
+2025-01-21 23:10:57,624 : INFO --> Inside the class
+2025-01-21 23:10:57,624 : INFO --> Inside the class
+2025-01-21 23:10:57,624 : INFO --> Inside the class
+2025-01-21 23:10:57,628 : INFO --> Initializing the class
+2025-01-21 23:10:57,628 : INFO --> Initializing the class
+2025-01-21 23:10:57,628 : INFO --> Initializing the class
+2025-01-21 23:10:57,628 : INFO --> Initializing the class
+2025-01-21 23:10:57,634 : INFO --> AdminId is: 12
+2025-01-21 23:10:57,634 : INFO --> AdminId is: 12
+2025-01-21 23:10:57,634 : INFO --> AdminId is: 12
+2025-01-21 23:10:57,634 : INFO --> AdminId is: 12
+2025-01-21 23:10:57,637 : INFO --> AdminName is: Rahul123
+2025-01-21 23:10:57,637 : INFO --> AdminName is: Rahul123
+2025-01-21 23:10:57,637 : INFO --> AdminName is: Rahul123
+2025-01-21 23:10:57,637 : INFO --> AdminName is: Rahul123
+2025-01-21 23:10:57,644 : INFO --> StudentId is: 12
+2025-01-21 23:10:57,644 : INFO --> StudentId is: 12
+2025-01-21 23:10:57,644 : INFO --> StudentId is: 12
+2025-01-21 23:10:57,644 : INFO --> StudentId is: 12
+2025-01-21 23:10:57,651 : DEBUG --> Starting validation for AdminId
+2025-01-21 23:10:57,651 : DEBUG --> Starting validation for AdminId
+2025-01-21 23:10:57,651 : DEBUG --> Starting validation for AdminId
+2025-01-21 23:10:57,651 : DEBUG --> Starting validation for AdminId
+2025-01-21 23:10:57,656 : DEBUG --> Valid AdminId
+2025-01-21 23:10:57,656 : DEBUG --> Valid AdminId
+2025-01-21 23:10:57,656 : DEBUG --> Valid AdminId
+2025-01-21 23:10:57,656 : DEBUG --> Valid AdminId
+2025-01-21 23:10:57,660 : DEBUG --> passed validation for AdminId
+2025-01-21 23:10:57,660 : DEBUG --> passed validation for AdminId
+2025-01-21 23:10:57,660 : DEBUG --> passed validation for AdminId
+2025-01-21 23:10:57,660 : DEBUG --> passed validation for AdminId
+2025-01-21 23:10:57,663 : DEBUG --> Starting validation for AdminName
+2025-01-21 23:10:57,663 : DEBUG --> Starting validation for AdminName
+2025-01-21 23:10:57,663 : DEBUG --> Starting validation for AdminName
+2025-01-21 23:10:57,663 : DEBUG --> Starting validation for AdminName
+2025-01-21 23:10:57,667 : CRITICAL --> AdminName must contain only alphabets.
+2025-01-21 23:10:57,667 : CRITICAL --> AdminName must contain only alphabets.
+2025-01-21 23:10:57,667 : CRITICAL --> AdminName must contain only alphabets.
+2025-01-21 23:10:57,667 : CRITICAL --> AdminName must contain only alphabets.
+2025-01-21 23:10:57,670 : DEBUG --> Starting validation for StudentId
+2025-01-21 23:10:57,670 : DEBUG --> Starting validation for StudentId
+2025-01-21 23:10:57,670 : DEBUG --> Starting validation for StudentId
+2025-01-21 23:10:57,670 : DEBUG --> Starting validation for StudentId
+2025-01-21 23:10:57,676 : DEBUG --> Valid StudentId
+2025-01-21 23:10:57,676 : DEBUG --> Valid StudentId
+2025-01-21 23:10:57,676 : DEBUG --> Valid StudentId
+2025-01-21 23:10:57,676 : DEBUG --> Valid StudentId
+2025-01-21 23:10:57,680 : DEBUG --> passed validation for StudentId
+2025-01-21 23:10:57,680 : DEBUG --> passed validation for StudentId
+2025-01-21 23:10:57,680 : DEBUG --> passed validation for StudentId
+2025-01-21 23:10:57,680 : DEBUG --> passed validation for StudentId
+2025-01-21 23:11:49,554 : INFO --> Inside the class
+2025-01-21 23:11:49,554 : INFO --> Inside the class
+2025-01-21 23:11:49,554 : INFO --> Inside the class
+2025-01-21 23:11:49,554 : INFO --> Inside the class
+2025-01-21 23:11:49,558 : INFO --> Initializing the Courses class
+2025-01-21 23:11:49,558 : INFO --> Initializing the Courses class
+2025-01-21 23:11:49,558 : INFO --> Initializing the Courses class
+2025-01-21 23:11:49,558 : INFO --> Initializing the Courses class
+2025-01-21 23:11:49,565 : INFO --> CourseId is: 12
+2025-01-21 23:11:49,565 : INFO --> CourseId is: 12
+2025-01-21 23:11:49,565 : INFO --> CourseId is: 12
+2025-01-21 23:11:49,565 : INFO --> CourseId is: 12
+2025-01-21 23:11:49,569 : INFO --> CourseName is: Computer Enring
+2025-01-21 23:11:49,569 : INFO --> CourseName is: Computer Enring
+2025-01-21 23:11:49,569 : INFO --> CourseName is: Computer Enring
+2025-01-21 23:11:49,569 : INFO --> CourseName is: Computer Enring
+2025-01-21 23:11:49,575 : INFO --> AdminId is: 12
+2025-01-21 23:11:49,575 : INFO --> AdminId is: 12
+2025-01-21 23:11:49,575 : INFO --> AdminId is: 12
+2025-01-21 23:11:49,575 : INFO --> AdminId is: 12
+2025-01-21 23:11:49,580 : DEBUG --> Starting validation for CourseId
+2025-01-21 23:11:49,580 : DEBUG --> Starting validation for CourseId
+2025-01-21 23:11:49,580 : DEBUG --> Starting validation for CourseId
+2025-01-21 23:11:49,580 : DEBUG --> Starting validation for CourseId
+2025-01-21 23:11:49,585 : DEBUG --> Valid CourseId
+2025-01-21 23:11:49,585 : DEBUG --> Valid CourseId
+2025-01-21 23:11:49,585 : DEBUG --> Valid CourseId
+2025-01-21 23:11:49,585 : DEBUG --> Valid CourseId
+2025-01-21 23:11:49,590 : DEBUG --> Validation passed for CourseId
+2025-01-21 23:11:49,590 : DEBUG --> Validation passed for CourseId
+2025-01-21 23:11:49,590 : DEBUG --> Validation passed for CourseId
+2025-01-21 23:11:49,590 : DEBUG --> Validation passed for CourseId
+2025-01-21 23:11:49,595 : DEBUG --> Starting validation for CourseName
+2025-01-21 23:11:49,595 : DEBUG --> Starting validation for CourseName
+2025-01-21 23:11:49,595 : DEBUG --> Starting validation for CourseName
+2025-01-21 23:11:49,595 : DEBUG --> Starting validation for CourseName
+2025-01-21 23:11:49,599 : CRITICAL --> Invalid CourseName. Please enter a valid course name.
+2025-01-21 23:11:49,599 : CRITICAL --> Invalid CourseName. Please enter a valid course name.
+2025-01-21 23:11:49,599 : CRITICAL --> Invalid CourseName. Please enter a valid course name.
+2025-01-21 23:11:49,599 : CRITICAL --> Invalid CourseName. Please enter a valid course name.
+2025-01-21 23:11:49,603 : DEBUG --> Starting validation for AdminId
+2025-01-21 23:11:49,603 : DEBUG --> Starting validation for AdminId
+2025-01-21 23:11:49,603 : DEBUG --> Starting validation for AdminId
+2025-01-21 23:11:49,603 : DEBUG --> Starting validation for AdminId
+2025-01-21 23:11:49,607 : DEBUG --> Valid AdminId
+2025-01-21 23:11:49,607 : DEBUG --> Valid AdminId
+2025-01-21 23:11:49,607 : DEBUG --> Valid AdminId
+2025-01-21 23:11:49,607 : DEBUG --> Valid AdminId
+2025-01-21 23:11:49,612 : DEBUG --> Validation passed for AdminId
+2025-01-21 23:11:49,612 : DEBUG --> Validation passed for AdminId
+2025-01-21 23:11:49,612 : DEBUG --> Validation passed for AdminId
+2025-01-21 23:11:49,612 : DEBUG --> Validation passed for AdminId
+2025-01-21 23:12:22,271 : INFO --> Inside the Department class
+2025-01-21 23:12:22,271 : INFO --> Inside the Department class
+2025-01-21 23:12:22,271 : INFO --> Inside the Department class
+2025-01-21 23:12:22,271 : INFO --> Inside the Department class
+2025-01-21 23:12:22,276 : INFO --> Initializing the Department class
+2025-01-21 23:12:22,276 : INFO --> Initializing the Department class
+2025-01-21 23:12:22,276 : INFO --> Initializing the Department class
+2025-01-21 23:12:22,276 : INFO --> Initializing the Department class
+2025-01-21 23:12:22,282 : INFO --> Department Id is: 12
+2025-01-21 23:12:22,282 : INFO --> Department Id is: 12
+2025-01-21 23:12:22,282 : INFO --> Department Id is: 12
+2025-01-21 23:12:22,282 : INFO --> Department Id is: 12
+2025-01-21 23:12:22,285 : INFO --> Department Name is: Computer Enring
+2025-01-21 23:12:22,285 : INFO --> Department Name is: Computer Enring
+2025-01-21 23:12:22,285 : INFO --> Department Name is: Computer Enring
+2025-01-21 23:12:22,285 : INFO --> Department Name is: Computer Enring
+2025-01-21 23:12:22,289 : INFO --> Allocated Seat is: Yes
+2025-01-21 23:12:22,289 : INFO --> Allocated Seat is: Yes
+2025-01-21 23:12:22,289 : INFO --> Allocated Seat is: Yes
+2025-01-21 23:12:22,289 : INFO --> Allocated Seat is: Yes
+2025-01-21 23:12:22,293 : INFO --> Course Id is: 12
+2025-01-21 23:12:22,293 : INFO --> Course Id is: 12
+2025-01-21 23:12:22,293 : INFO --> Course Id is: 12
+2025-01-21 23:12:22,293 : INFO --> Course Id is: 12
+2025-01-21 23:12:22,296 : DEBUG --> Starting validation for Department Id
+2025-01-21 23:12:22,296 : DEBUG --> Starting validation for Department Id
+2025-01-21 23:12:22,296 : DEBUG --> Starting validation for Department Id
+2025-01-21 23:12:22,296 : DEBUG --> Starting validation for Department Id
+2025-01-21 23:12:22,300 : DEBUG --> Valid Department Id
+2025-01-21 23:12:22,300 : DEBUG --> Valid Department Id
+2025-01-21 23:12:22,300 : DEBUG --> Valid Department Id
+2025-01-21 23:12:22,300 : DEBUG --> Valid Department Id
+2025-01-21 23:12:22,303 : DEBUG --> Validation passed for Department Id
+2025-01-21 23:12:22,303 : DEBUG --> Validation passed for Department Id
+2025-01-21 23:12:22,303 : DEBUG --> Validation passed for Department Id
+2025-01-21 23:12:22,303 : DEBUG --> Validation passed for Department Id
+2025-01-21 23:12:22,307 : DEBUG --> Starting validation for Department Name
+2025-01-21 23:12:22,307 : DEBUG --> Starting validation for Department Name
+2025-01-21 23:12:22,307 : DEBUG --> Starting validation for Department Name
+2025-01-21 23:12:22,307 : DEBUG --> Starting validation for Department Name
+2025-01-21 23:12:22,310 : CRITICAL --> Invalid Department Name. Please enter a valid department name.
+2025-01-21 23:12:22,310 : CRITICAL --> Invalid Department Name. Please enter a valid department name.
+2025-01-21 23:12:22,310 : CRITICAL --> Invalid Department Name. Please enter a valid department name.
+2025-01-21 23:12:22,310 : CRITICAL --> Invalid Department Name. Please enter a valid department name.
+2025-01-21 23:12:22,321 : DEBUG --> Starting validation for Allocated Seat
+2025-01-21 23:12:22,321 : DEBUG --> Starting validation for Allocated Seat
+2025-01-21 23:12:22,321 : DEBUG --> Starting validation for Allocated Seat
+2025-01-21 23:12:22,321 : DEBUG --> Starting validation for Allocated Seat
+2025-01-21 23:12:22,327 : DEBUG --> Valid Allocated Seat
+2025-01-21 23:12:22,327 : DEBUG --> Valid Allocated Seat
+2025-01-21 23:12:22,327 : DEBUG --> Valid Allocated Seat
+2025-01-21 23:12:22,327 : DEBUG --> Valid Allocated Seat
+2025-01-21 23:12:22,331 : DEBUG --> Validation passed for Allocated Seat
+2025-01-21 23:12:22,331 : DEBUG --> Validation passed for Allocated Seat
+2025-01-21 23:12:22,331 : DEBUG --> Validation passed for Allocated Seat
+2025-01-21 23:12:22,331 : DEBUG --> Validation passed for Allocated Seat
+2025-01-21 23:12:22,338 : DEBUG --> Starting validation for Course Id
+2025-01-21 23:12:22,338 : DEBUG --> Starting validation for Course Id
+2025-01-21 23:12:22,338 : DEBUG --> Starting validation for Course Id
+2025-01-21 23:12:22,338 : DEBUG --> Starting validation for Course Id
+2025-01-21 23:12:22,342 : DEBUG --> Valid Course Id
+2025-01-21 23:12:22,342 : DEBUG --> Valid Course Id
+2025-01-21 23:12:22,342 : DEBUG --> Valid Course Id
+2025-01-21 23:12:22,342 : DEBUG --> Valid Course Id
+2025-01-21 23:12:22,348 : DEBUG --> Validation passed for Course Id
+2025-01-21 23:12:22,348 : DEBUG --> Validation passed for Course Id
+2025-01-21 23:12:22,348 : DEBUG --> Validation passed for Course Id
+2025-01-21 23:12:22,348 : DEBUG --> Validation passed for Course Id

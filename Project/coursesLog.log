@@ -1,0 +1,13 @@
+2025-01-21 23:11:49,554 : INFO --> Inside the class
+2025-01-21 23:11:49,558 : INFO --> Initializing the Courses class
+2025-01-21 23:11:49,565 : INFO --> CourseId is: 12
+2025-01-21 23:11:49,569 : INFO --> CourseName is: Computer Enring
+2025-01-21 23:11:49,575 : INFO --> AdminId is: 12
+2025-01-21 23:11:49,580 : DEBUG --> Starting validation for CourseId
+2025-01-21 23:11:49,585 : DEBUG --> Valid CourseId
+2025-01-21 23:11:49,590 : DEBUG --> Validation passed for CourseId
+2025-01-21 23:11:49,595 : DEBUG --> Starting validation for CourseName
+2025-01-21 23:11:49,599 : CRITICAL --> Invalid CourseName. Please enter a valid course name.
+2025-01-21 23:11:49,603 : DEBUG --> Starting validation for AdminId
+2025-01-21 23:11:49,607 : DEBUG --> Valid AdminId
+2025-01-21 23:11:49,612 : DEBUG --> Validation passed for AdminId
