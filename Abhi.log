@@ -1,0 +1,26 @@
+2025-01-21 22:47:30,981 : INFO --> Initializing the Student class
+2025-01-21 22:47:30,984 : INFO --> Student ID: 123
+2025-01-21 22:47:30,988 : INFO --> Name: Abhi
+2025-01-21 22:47:30,992 : INFO --> Email: john.doe@example.com
+2025-01-21 22:47:30,992 : INFO --> Mobile Number: 9876543210
+2025-01-21 22:47:30,993 : INFO --> Address: 123 Main Street
+2025-01-21 22:47:30,995 : INFO --> Gender: male
+2025-01-21 22:47:30,996 : INFO --> DOB: 2000-05-15
+2025-01-21 22:47:30,998 : INFO --> 10th Marks: 85.0
+2025-01-21 22:47:31,000 : INFO --> 12th Marks: 90.5
+2025-01-21 22:47:31,001 : DEBUG --> Validating Student ID
+2025-01-21 22:47:31,002 : CRITICAL --> Student ID must be a 2-digit number.
+2025-01-21 22:47:31,003 : DEBUG --> Validating Email
+2025-01-21 22:47:31,007 : DEBUG --> Validation passed for Email
+2025-01-21 22:47:31,008 : DEBUG --> Validating Mobile Number
+2025-01-21 22:47:31,009 : DEBUG --> Validation passed for Mobile Number
+2025-01-21 22:47:31,010 : DEBUG --> Validating Address
+2025-01-21 22:47:31,011 : DEBUG --> Validation passed for Address
+2025-01-21 22:47:31,012 : DEBUG --> Validating Gender
+2025-01-21 22:47:31,013 : DEBUG --> Validation passed for Gender
+2025-01-21 22:47:31,015 : DEBUG --> Validating DOB
+2025-01-21 22:47:31,016 : DEBUG --> Validation passed for DOB
+2025-01-21 22:47:31,022 : DEBUG --> Validating 10th-grade Marks
+2025-01-21 22:47:31,024 : DEBUG --> Validation passed for 10th-grade Marks
+2025-01-21 22:47:31,025 : DEBUG --> Validating 12th-grade Marks
+2025-01-21 22:47:31,027 : DEBUG --> Validation passed for 12th-grade Marks
