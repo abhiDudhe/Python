@@ -1,0 +1,1 @@
+{'name': 'abhi', 'marks': 98, 'mobile_num': '1234567890'}

@@ -1,0 +1,14 @@
+2025-02-15 13:15:15,601 - Total Price: 150, GST: 15.0, Grand Total: 165.0
+2025-02-15 13:23:10,864 - Total Price: 80, GST: 8.0, Grand Total: 88.0
+2025-02-15 13:25:39,684 - Total Price: 40, GST: 4.0, Grand Total: 44.0
+2025-02-15 13:27:19,806 - Total Price: 130, GST: 13.0, Grand Total: 143.0
+2025-02-15 13:28:10,759 - Total Price: 40, GST: 4.0, Grand Total: 44.0
+2025-02-15 13:28:50,590 - Total Price: 130, GST: 13.0, Grand Total: 143.0
+2025-02-15 13:29:35,133 - Total Price: 100, GST: 10.0, Grand Total: 110.0
+2025-02-15 13:30:30,120 - Total Price: 130, GST: 13.0, Grand Total: 143.0
+2025-02-15 13:31:11,350 - Total Price: 100, GST: 10.0, Grand Total: 110.0
+2025-02-15 13:31:46,450 - Total Price: 130, GST: 13.0, Grand Total: 143.0
+2025-02-15 13:32:20,109 - Total Price: 100, GST: 10.0, Grand Total: 110.0
+2025-02-15 13:32:56,245 - Total Price: 40, GST: 4.0, Grand Total: 44.0
+2025-02-15 13:34:38,078 - Total Price: 120, GST: 12.0, Grand Total: 132.0
+2025-02-15 13:35:11,289 - Total Price: 40, GST: 4.0, Grand Total: 44.0
